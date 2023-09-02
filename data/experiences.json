@@ -1,0 +1,120 @@
+[
+  {
+    "category":  "Experiences",
+    "icon": "fa fa-terminal",
+    "0": [
+      {
+        "id": 13,
+        "occupation": "FullStack Developer Pleno",
+        "enterprise": "Movida Aluguel de Carros",
+        "date_in": "July 2022",
+        "date_out": "to present",
+        "skills": ["Git", "Gitlab", "GCP", "Docker", "docker-compose", "PHP",
+            "Ruby", "Laravel", "VueJS", "Ruby on Rails", "Ajax", "jQuery",
+            "Shell Script", "Jenkins", "Sentry", "Sonarqube", "Bootstrap",
+            "Javascript", "Android", "MySQL", "Pub/Sub", "Scrum", "Linux"]
+      },
+      {
+        "id": 12,
+        "occupation": "Analyst Web Developer FullStack SR",
+        "enterprise": "Pulses",
+        "date_in": "June 2022",
+        "date_out": "December 2002",
+        "skills": ["Slim", "VueJS", "GCP", "PHP", "Firestore", "MySQL", "Pub/Sub",
+          "GIT", "Bitbucket", "Scrum", "Linux"]
+      },
+      {
+        "id": 11,
+        "occupation": "Senior Software Developer",
+        "enterprise": "Viva! Experiências",
+        "date_in": "August 2021",
+        "date_out": "April 2022",
+        "skills": ["Git", "Code Commit", "AWS", "VueJS", "PHP", "Laravel", "Angular",
+          "MySQL", "Kanban"]
+      },
+      {
+        "id": 10,
+        "occupation": "System Programmer",
+        "enterprise": "Ação Direta Web Studio",
+        "date_in": "May 2021",
+        "date_out": "July 2021",
+        "skills": ["Git", "Bitbucket", "PHP", "Codeigniter", "Javascript", "Bootstrap",
+          "MySQL"]
+      },
+      {
+        "id": 9,
+        "occupation": "FullStack Developer Senior",
+        "enterprise": "Mutualsoft Tecnologia Ltda",
+        "date_in": "October 2017",
+        "date_out": "January 2021",
+        "skills": ["Git", "Bitbucket", "AWS", "Vultr", "jQuery", "Bootstrap",
+          "VueJS", "PHP", "MySQL", "Laravel", "Javascript", "Linux", "Kanban"]
+      },
+      {
+        "id": 8,
+        "occupation": "FullStack Developer Pleno",
+        "enterprise": "Domo Desenvolvimento Ltda.",
+        "date_in": "February 2017",
+        "date_out": "January 2018",
+        "skills": ["PHP", "MySQL", "GIT", "Bitbucket", "Zend", "Angular", "Slim",
+          "Scrum", "Linux"]
+      },
+      {
+        "id": 7,
+        "occupation": "Ballot Box Technician",
+        "enterprise": "Indra Brasil Soluções e Serviços Tecnologicos",
+        "date_in": "August 2016",
+        "date_out": "October 2016",
+        "skills": ["Linux"]
+      },
+      {
+        "id": 6,
+        "occupation": "FullStack Developer",
+        "enterprise": "Offtag Soluções Web Ltda.",
+        "date_in": "April 2015",
+        "date_out": "May 2016",
+        "skills": ["PHP", "MySQL", "Bootstrap", "Javascript"]
+      },
+      {
+        "id": 5,
+        "occupation": "IT Assistant",
+        "enterprise": "Heko Ambiental",
+        "date_in": "February 2013",
+        "date_out": "November 2014",
+        "skills": ["PHP", "jQuery", "Bootstrap", "MySQL"]
+      },
+      {
+        "id": 4,
+        "occupation": "Page Operator II",
+        "enterprise": "RBS - Zero Hora Editora Jornalistica S.A.",
+        "date_in": "July 2013",
+        "date_out": "January 2013",
+        "skills": ["InDesign", "Agfa PagePair", "CTP"]
+      },
+      {
+        "id": 3,
+        "occupation": "Web Design",
+        "enterprise": "Eficiente Atacadista Ltda",
+        "date_in": "February 2013",
+        "date_out": "June 2011",
+        "skills": ["jQuery", "Bootstrap", "PHP", "MySQL"]
+      },
+      {
+        "id": 2,
+        "occupation": "Operational Manager",
+        "enterprise": "AJB Web Design e Comunicação Ltda",
+        "date_in": "November 2008",
+        "date_out": "February 2009",
+        "skills": ["PHP", "MySQL", "Bootstrap", "jQuery"]
+      },
+      {
+        "id": 1,
+        "occupation": "Full Stack Developer",
+        "enterprise": "AJB Web Design e Comunicação Ltda",
+        "date_in": "July 2007",
+        "date_out": "November 2008",
+        "skills": ["PHP", "MySQL", "Bootstrap", "jQuery"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "category":  "Qualifications",
+    "icon": "fa fa-terminal",
+    "0": [
+      {
+        "id": 3,
+        "course": "",
+        "organization": "",
+        "emission": "",
+        "link": ""
+      },
+      {
+        "id": 2,
+        "course": "WEB DESIGN",
+        "organization": "Universidade Católica de BrasíliaUniversidade Católica de Brasília",
+        "emission": "August",
+        "link": "#"
+      },
+      {
+        "id": 1,
+        "course": "IV Semana da Informática e III Mostra de Projetos de Estágio",
+        "organization": "Universidade do Oeste de Santa Catarina",
+        "emission": "June 2003",
+        "link": "#"
+      }
+    ]
+  }
+]
