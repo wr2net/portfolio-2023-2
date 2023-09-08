@@ -233,15 +233,15 @@ p {
     width: 100%;
     height: auto;
     justify-content: center;
-    padding: 20px 50px;
+    padding: 24px 0;
     display: grid;
-    grid-template-columns: repeat(10, 1fr);
-    grid-gap: 5px;
+    grid-template-columns: repeat(8, 1fr);
+    grid-gap: 10px;
 }
 
 .skills-box {
-    width: 66px;
-    height: 14px;
+    width: 86px;
+    height: 24px;
     flex-shrink: 0;
     border-radius: 30px;
     background: var(--bg-techs);
@@ -252,7 +252,7 @@ p {
     flex-shrink: 0;
     color: var(--text-techs);
     text-align: center;
-    font-size: 9px;
+    font-size: 10px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;

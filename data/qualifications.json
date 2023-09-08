@@ -4,12 +4,653 @@
     "icon": "fa fa-terminal",
     "0": [
       {
-        "id": 3,
-        "course": "",
-        "organization": "",
-        "emission": "",
-        "link": ""
+        "id": 145,
+        "course": "Curso de RabbitMQ",
+        "organization": "Full Cycle",
+        "emission": "set de 2023",
+        "link": "#"
       },
+      {
+        "id": 144,
+        "course": "Curso de Event Storming na Prática",
+        "organization": "Full Cycle",
+        "emission": "ago de 2023",
+        "link": "#"
+      },
+      {
+        "id": 143,
+        "course": "Discover",
+        "organization": "Rocketseat",
+        "emission": "ago de 2023",
+        "link": "#"
+      },
+      {
+        "id": 142,
+        "course": "Ruby on Rails 4: do zero à web",
+        "organization": "Alura",
+        "emission": "ago de 2023",
+        "link": "#"
+      },
+      {
+        "id": 141,
+        "course": "Ruby on Rails 5 parte 1: Fundamentos",
+        "organization": "Alura",
+        "emission": "ago de 2023",
+        "link": "#"
+      },
+      {
+        "id": 140,
+        "course": "Ruby on Rails 5 parte 2: Validação, atualização, partials e deploy",
+        "organization": "Alura",
+        "emission": "ago de 2023",
+        "link": "#"
+      },
+      {
+        "id": 139,
+        "course": "Curso de Comunicação entre sistemas",
+        "organization": "Full Cycle",
+        "emission": "jul de 2023",
+        "link": "#"
+      },
+      {
+        "id": 138,
+        "course": "Curso de Domain Driven Design",
+        "organization": "Full Cycle",
+        "emission": "jul de 2023",
+        "link": "#"
+      },
+      {
+        "id": 137,
+        "course": "Curso de SOLID Express",
+        "organization": "Full Cycle",
+        "emission": "jul de 2023",
+        "link": "#"
+      },
+      {
+        "id": 136,
+        "course": "DevOpsBootcampLive #25",
+        "organization": "DevOps Bootcamp",
+        "emission": "jul de 2023",
+        "link": "#"
+      },
+      {
+        "id": 135,
+        "course": "Ruby on Rails 3 parte III",
+        "organization": "Alura",
+        "emission": "jul de 2023",
+        "link": "#"
+      },
+      {
+        "id": 134,
+        "course": "Ruby on Rails 3 parte II",
+        "organization": "Alura",
+        "emission": "jul de 2023",
+        "link": "#"
+      },
+      {
+        "id": 133,
+        "course": "Trilha Especializar Discover",
+        "organization": "Rocketseat",
+        "emission": "jul de 2023",
+        "link": "#"
+      },
+      {
+        "id": 132,
+        "course": "Curso de Fundamentos da arquitetura de software",
+        "organization": "Full Cycle",
+        "emission": "mar de 2023",
+        "link": "#"
+      },
+      {
+        "id": 131,
+        "course": "Introdução ao Ruby",
+        "organization": "DIO",
+        "emission": "mar de 2023",
+        "link": "#"
+      },
+      {
+        "id": 130,
+        "course": "Employee Experience na prática - Uma Jornada transformadora",
+        "organization": "Pulses by Gupy",
+        "emission": "nov de 2022",
+        "link": "#"
+      },
+      {
+        "id": 130,
+        "course": "Employee Experience na prática - Uma Jornada transformadora",
+        "organization": "Pulses by Gupy",
+        "emission": "nov de 2022",
+        "link": "#"
+      },
+      {
+        "id": 129,
+        "course": "Feedback 2.0 - Tudo o que você precisa saber!",
+        "organization": "Pulses by Gupy",
+        "emission": "nov de 2022",
+        "link": "#"
+      },
+      {
+        "id": 128,
+        "course": "Formação Arquitetura PHP",
+        "organization": "Alura",
+        "emission": "nov de 2022",
+        "link": "#"
+      },
+      {
+        "id": 127,
+        "course": "PHP e Domain Driven Design: apresentando os conceitos",
+        "organization": "Alura",
+        "emission": "nov de 2022",
+        "link": "#"
+      },
+      {
+        "id": 126,
+        "course": "Ruby on Rails 3 parte I",
+        "organization": "Alura",
+        "emission": "nov de 2022",
+        "link": "#"
+      },
+      {
+        "id": 125,
+        "course": "Formação Vue.js 3",
+        "organization": "Alura",
+        "emission": "out de 2022",
+        "link": "#"
+      },
+      {
+        "id": 124,
+        "course": "Orientação a Objetos: Melhores técnicas com Ruby",
+        "organization": "Alura",
+        "emission": "out de 2022",
+        "link": "#"
+      },
+      {
+        "id": 123,
+        "course": "Orientação a Objetos: Melhores técnicas com Ruby",
+        "organization": "Alura",
+        "emission": "out de 2022",
+        "link": "#"
+      },
+
+      PHP Community Summit 22
+      Locaweb
+      out de 2022
+
+
+      PHP e Clean Architecture: descomplicando arquitetura de software
+      Alura
+      out de 2022
+
+      PHP e TDD: testes com PHPUnit
+      Alura
+      out de 2022
+
+      Ruby I: Lógica de programação com jogos
+      Alura
+      out de 2022
+
+      Ruby II: Continuando seus primeiros passos na programação
+      Alura
+      out de 2022
+
+      Ruby III: Mais lógica de programação em um novo jogo
+      Alura
+      out de 2022
+
+      Testes de integração com PHP: testando o acesso à API e ao banco de dados
+      Alura
+      out de 2022
+
+      TreinaWeb Multi-stack #4 - Semana React Python
+      TreinaWeb
+      out de 2022
+
+      Trilha Conectar do Discover
+      Rocketseat
+      out de 2022
+
+      Trilha Fundamentar do Discover
+      Rocketseat
+      out de 2022
+
+      Vue3: composition API e Vuex
+      Alura
+      out de 2022
+
+      Design Patterns em PHP: padrões comportamentais
+      Alura
+      set de 2022
+
+      Design Patterns em PHP: padrões criacionais
+      Alura
+      set de 2022
+
+      Design Patterns em PHP: padrões estruturais
+      Alura
+      set de 2022
+
+      Object Calisthenics: exercitando a Orientação a Objetos
+      Alura
+      set de 2022
+
+      SOLID com PHP: princípios da programação orientada a objetos
+      Alura
+      set de 2022
+
+      Swagger: Documentando suas APIs
+      Alura
+      set de 2022
+
+      Vue3: avançando no framework
+      Alura
+      set de 2022
+
+      Vue3: explorando o framework
+      Alura
+      set de 2022
+
+      OKR: Metodologia, Gestão e Prática
+      Pulses by Gupy
+      jul de 2022
+
+      Pulses Awards - Melhores Práticas de Lidenrança
+      Pulses by Gupy
+      jun de 2022
+
+      Métodos Ágeis - Do Planejamento à Entrega
+      Descomplica
+      abr de 2022
+
+      Conceitos de responsividade e experiência do usuário
+      DIO
+      mar de 2022
+
+      Construindo Encurtador de URL
+      DIO
+      mar de 2022
+
+      Criando aplicações móveis multiplataforma com React Native
+      DIO
+      mar de 2022
+
+      Criando um front-end totalmente componentizado na prática com ReactJS
+      DIO
+      mar de 2022
+
+      Introdução ao MongoDB e Bancos de Dados NoSQL
+      DIO
+      mar de 2022
+
+      Introdução ao Node.js com JavaScript
+      DIO
+      mar de 2022
+
+      Introdução prática a computação em nuvem usando AWS
+      DIO
+      mar de 2022
+
+      MySql - Trabalhando com as suas primeiras tabelas
+      DIO
+      mar de 2022
+
+      Práticas avançadas em projetos com ReactJS
+      DIO
+      mar de 2022
+
+      Boas-vindas ao Bootcamp Eduzz Fullstack Developer #3
+      DIO
+      fev de 2022
+
+      Bootcamp Inter Frontend Developer
+      DIO
+      fev de 2022
+
+      Certificado PHP - Gerenciador de dependências Composer
+      TreinaWeb
+      fev de 2022
+
+      Conhecendo funções e validação de dados com PHP
+      DIO
+      fev de 2022
+
+      Criando seu jogo de memória estilo Genius
+      DIO
+      fev de 2022
+
+      Desenvolvimento avançado com JavaScript ES6
+      DIO
+      fev de 2022
+
+      Desenvolvimento de aplicações para internet com ReactJS
+      DIO
+      fev de 2022
+
+      Explorando o Estilo Arquitetural REST com Node.js
+      DIO
+      fev de 2022
+
+      Integrando um Backend em Node.js com um Frontend em React para um E-commerce
+      DIO
+      fev de 2022
+
+      Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
+      DIO
+      fev de 2022
+
+      Introdução aos React Hooks
+      DIO
+      fev de 2022
+
+      JavaScript ES6 essencial
+      DIO
+      fev de 2022
+
+      Microsserviços e Integrações com Node.js
+      DIO
+      fev de 2022
+
+      Node.js com Bancos de Dados Relacionais (SQL)
+      DIO
+      fev de 2022
+
+      Trabalhando com Componentes em React
+      DIO
+      fev de 2022
+
+      Trabalhando com States & Effects no ReactJs
+      DIO
+      fev de 2022
+
+      Aprenda o que são Estrutura de Dados e Algoritmos
+      DIO
+      jan de 2022
+
+      Boas-vindas ao Bootcamp Inter Frontend
+      DIO
+      jan de 2022
+
+      Certificado de Participação - Maratona Profissão Programador Python
+      Even3
+      jan de 2022
+
+      Coleções em JavaScript
+      DIO
+      jan de 2022
+
+      Containers e Docker
+      Formação DevOps Pro
+      jan de 2022
+
+      Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+      DIO
+      jan de 2022
+
+
+      DO WHILE 2021
+      Rocketseat
+      jan de 2022
+
+      Debugging e Error Handling com JavaScript
+      DIO
+      jan de 2022
+
+      Deploy no Kubernetes
+      Formação DevOps Pro
+      jan de 2022
+
+      Docker
+      Full Cycle
+      jan de 2022
+
+
+      Formulários com condicionais e sessões com PHP
+      DIO
+      jan de 2022
+
+      Fundamentos de Arquitetura de Software
+      Full Cycle
+      jan de 2022
+
+      Funções com JavaScript
+      DIO
+      jan de 2022
+
+      IDE Instalação e Configuração (Visual Studio Code)
+      DIO
+      jan de 2022
+
+      Iniciativa Kubernetes
+      Formação DevOps Pro
+      jan de 2022
+
+      Instalando e Configurando seu Ambiente Node.js
+      DIO
+      jan de 2022
+
+      Introdução a APIs e métodos HTTP
+      DIO
+      jan de 2022
+
+      Introdução ao JavaScript
+      DIO
+      jan de 2022
+
+      Introdução ao ReactJS
+      DIO
+      jan de 2022
+
+      JavaScript Assíncrono
+      DIO
+      jan de 2022
+
+      Manipulando a D.O.M. com JavaScript
+      DIO
+      jan de 2022
+
+      Map, Filter e Reduce com JavaScript
+      DIO
+      jan de 2022
+
+      Modelando um banco de dados na prática com SQL SERVER
+      DIO
+      jan de 2022
+
+      Orientação a Objeto com JavaScript
+      DIO
+      jan de 2022
+
+      Pipelines CI/CD
+      Formação DevOps Pro
+      jan de 2022
+
+      Projetos ágeis com SCRUM
+      DIO
+      jan de 2022
+
+      Recriando a Interface do Netflix
+      DIO
+      jan de 2022
+
+      Resolvendo Desafios de Código em JavaScrip
+      DIO
+      jan de 2022
+
+      SQL SERVER - Criando suas primeiras consultas
+      DIO
+      jan de 2022
+
+      SQL Server: Boas práticas em bancos relacionais
+      DIO
+      jan de 2022
+
+      Semana Spring React
+      Educandoweb Cursos Ltda
+      jan de 2022
+
+      Sintaxe Básica em JavaScript
+      DIO
+      jan de 2022
+
+      Sintaxe e Operadores
+      DIO
+      jan de 2022
+
+      Teste PHP NerdIn
+      NerdIn Vagas de TI
+      jan de 2022
+
+      Variáveis e Tipos
+      DIO
+      jan de 2022
+
+      PHP Community Summit Online 21
+      Locaweb
+      ago de 2021
+
+      TDWC 2021
+      Transformação Digital
+      jun de 2021
+
+      TreinaWeb Multi-stack #1
+      TreinaWeb
+      jun de 2021
+
+      CodeIgniter 3 - Framework PHP
+      TreinaWeb
+      mai de 2021
+
+      DO WHILE 2020
+      Rocketseat
+      jan de 2021
+
+      PHP - Novidades do PHP 8.0
+      TreinaWeb
+      jan de 2021
+
+      Conceitos de responsividade e experiência do usuário
+      DIO
+      dez de 2020
+
+      Docker - Fundamentos
+      TreinaWeb
+      dez de 2020
+
+      Fundamentos de Arquitetura de sistemas
+      DIO
+      dez de 2020
+
+      AvançaDev
+      School of Net
+      nov de 2020
+
+      Introdução a orquestração de contêineres com Docker
+      DIO
+      nov de 2020
+
+      PHP - Testes unitários com PHPUnit
+      TreinaWeb
+      nov de 2020
+
+      Construindo páginas para internet com Bootstrap
+      DIO
+      out de 2020
+
+      Introdução a criação de websites com HTML5 e CSS3
+      DIO
+      out de 2020
+
+      Introdução ao PHP
+      DIO
+      out de 2020
+
+      Linux: A indrodução ao sistema operacional
+      DIO
+      out de 2020
+
+      Introdução ao Git e ao GitHub
+      DIO
+      set de 2020
+
+      Lógica de programação essencial
+      DIO
+      set de 2020
+
+      Maratona Código Aberto - Trilha de carreira
+      Locaweb
+      set de 2020
+
+      Semana da Computação em Nuvem
+      Cloud Treinamentos
+      ago de 2020
+
+      TDC Online - Trilha LGPD E SOFTWARE SECURITY
+      The Developer's Conference
+      jun de 2020
+
+      Laravel - Framework PHP (Parte 2/3)Laravel - Framework PHP (Parte 2/3)
+      TreinaWebTreinaWeb Verificação emitida em mai de 2020Verificação emitida em mai de 2020
+      Logo da empresa TreinaWeb
+      Laravel - Framework PHP (Parte 1/3)Laravel - Framework PHP (Parte 1/3)
+      TreinaWebTreinaWeb Verificação emitida em abr de 2020Verificação emitida em abr de 2020
+      Logo da empresa Alura
+      JQUERY: Domine a Biblioteca Mais Popular do mercado Parte 1JQUERY: Domine a Biblioteca Mais Popular do mercado Parte 1
+      AluraAlura Verificação emitida em nov de 2019Verificação emitida em nov de 2019
+      Logo da empresa TreinaWeb
+      Angular - FormuláriosAngular - Formulários
+      TreinaWebTreinaWeb Verificação emitida em fev de 2019Verificação emitida em fev de 2019
+      Logo da empresa TreinaWeb
+      Slim - Microframework PHPSlim - Microframework PHP
+      TreinaWebTreinaWeb Verificação emitida em nov de 2018Verificação emitida em nov de 2018
+      Logo da empresa TreinaWeb
+      Composer - Gerenciador de dependências para PHPComposer - Gerenciador de dependências para PHP
+      TreinaWebTreinaWeb Verificação emitida em ago de 2018Verificação emitida em ago de 2018
+      Logo da empresa Universidade do Vale do Rio dos Sinos
+      Certificado de Qualificação Profissional de Programador JúniorCertificado de Qualificação Profissional de Programador Júnior
+      Universidade do Vale do Rio dos SinosUniversidade do Vale do Rio dos Sinos Verificação emitida em out de 2017Verificação emitida em out de 2017
+      WordPress DeveloperWordPress Developer
+      KodameKodame Verificação emitida em ago de 2015Verificação emitida em ago de 2015
+      Logo da empresa ASOLISC
+      8º SoLiSC - Concresso Catarinense de Software Livre8º SoLiSC - Concresso Catarinense de Software Livre
+      ASOLISCASOLISC Verificação emitida em set de 2013Verificação emitida em set de 2013
+      HTML5 - Homologado pelo W3CHTML5 - Homologado pelo W3C
+      Microsoft Virtual AcademyMicrosoft Virtual Academy Verificação emitida em abr de 2013Verificação emitida em abr de 2013
+      Logo da empresa SENAI/SC - Serviço Nacional de Aprendizagem Industrial
+      Programa de Capacitação em Programação Java - 2011Programa de Capacitação em Programação Java - 2011
+      SENAI/SC - Serviço Nacional de Aprendizagem IndustrialSENAI/SC - Serviço Nacional de Aprendizagem Industrial Verificação emitida em dez de 2011Verificação emitida em dez de 2011
+      Logo da empresa Globalcode Treinamentos
+      Academia do Java 2009Academia do Java 2009
+      Globalcode TreinamentosGlobalcode Treinamentos Verificação emitida em nov de 2008Verificação emitida em nov de 2008
+      Logo da empresa Universidade do Oeste de Santa Catarina
+      VIII SEMINFO - Semana da InformáticaVIII SEMINFO - Semana da Informática
+      Universidade do Oeste de Santa CatarinaUniversidade do Oeste de Santa Catarina Verificação emitida em set de 2007Verificação emitida em set de 2007
+      Logo da empresa Intel Corporation
+      Gerenciamento de TIGerenciamento de TI
+      Intel CorporationIntel Corporation Verificação emitida em dez de 2006Verificação emitida em dez de 2006
+      Logo da empresa Universidade do Oeste de Santa Catarina
+      MINI-CURSO de Linux - Nível IMINI-CURSO de Linux - Nível I
+      Universidade do Oeste de Santa CatarinaUniversidade do Oeste de Santa Catarina Verificação emitida em out de 2006Verificação emitida em out de 2006
+      Logo da empresa ProWay
+      Formação PHPFormação PHP
+      ProWayProWay Verificação emitida em jul de 2006Verificação emitida em jul de 2006
+      Logo da empresa Universidade do Oeste de Santa Catarina
+      VII Semana da InformáticaVII Semana da Informática
+      Universidade do Oeste de Santa CatarinaUniversidade do Oeste de Santa Catarina Verificação emitida em jun de 2006Verificação emitida em jun de 2006
+      Logo da empresa Universidade do Oeste de Santa Catarina
+      Curso de Corel DrawCurso de Corel Draw
+      Universidade do Oeste de Santa CatarinaUniversidade do Oeste de Santa Catarina Verificação emitida em out de 2005Verificação emitida em out de 2005
+      Logo da empresa Universidade Católica de Brasília
+      WEB DESIGNWEB DESIGN
+      Universidade Católica de BrasíliaUniversidade Católica de Brasília Verificação emitida em ago de 2005Verificação emitida em ago de 2005
+      Logo da empresa Universidade do Oeste de Santa Catarina
+      IV Semana da Informática e III Mostra de Projetos de EstágioIV Semana da Informática e III Mostra de Projetos de Estágio
+      Universidade do Oeste de Santa CatarinaUniversidade do Oeste de Santa Catarina Verificação emitida em jun de 2003,
+
+
+
+
+
+
+
       {
         "id": 2,
         "course": "WEB DESIGN",
