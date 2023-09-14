@@ -11,19 +11,21 @@ function readTextFile(file, callback) {
 }
 readTextFile('data/qualifications.json', function(base) {
   const access = JSON.parse(base);
-  let information = ""
+  let information = "<div id='qualifications-list-box'>"
 
   access.forEach(function(info, i) {
     info[i].forEach(function(sub, j) {
       information +=
-        "<div class='box-info'>" +
-        "  <h3><ion-icon name='desktop-outline'></ion-icon>&nbsp;&nbsp;&nbsp;" + sub.course + "</h3>" +
-        "  <div class='box-date'>" + sub.organization + "</div>" +
-        "  <div class='box-date'>" + sub.emission + "</div>"
+        "<a><div class='box-qualification'>" +
+        "  <h3>" + sub.course + "</h3>" +
+        "  <div class='box-quali'>" + sub.organization + "</div>" +
+        "  <div class='box-quali'>" + sub.emission + "</div>"
         if (sub.link !== "#") {
-          information += "<a href='" + sub.link + "' <div class='box-date'>" + sub.link + "</div></a>"
+          information += "<a href='" + sub.link + "'><div class='box-date'>" + sub.link + "</div></a>"
         }
+      information += "</div></a>"
     });
   });
+  information += "</div>"
   document.getElementById("qualifications-list").innerHTML = information;
 });
