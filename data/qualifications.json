@@ -4,6 +4,20 @@
     "icon": "fa fa-terminal",
     "0": [
       {
+        "id": 141,
+        "course": "OLW - Open Laravel Week",
+        "organization": "Beer And Code",
+        "emission": "September 2023",
+        "link": "#"
+      },
+      {
+        "id": 140,
+        "course": "NLW IA",
+        "organization": "Rocketseat",
+        "emission": "September 2023",
+        "link": "#"
+      },
+      {
         "id": 139,
         "course": "Curso de RabbitMQ",
         "organization": "Full Cycle",
